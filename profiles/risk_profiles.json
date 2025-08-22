@@ -1,0 +1,26 @@
+{
+  "Default": {
+    "ae_threshold_pct": 70,
+    "if_contamination": 0.25,
+    "hybrid_threshold": 0.6,
+    "rule_weight": 0.2,
+    "fp_cost": 1.0,
+    "fn_cost": 5.0
+  },
+  "Conservative": {
+    "ae_threshold_pct": 60,
+    "if_contamination": 0.15,
+    "hybrid_threshold": 0.5,
+    "rule_weight": 0.1,
+    "fp_cost": 1.0,
+    "fn_cost": 10.0
+  },
+  "Aggressive": {
+    "ae_threshold_pct": 85,
+    "if_contamination": 0.35,
+    "hybrid_threshold": 0.7,
+    "rule_weight": 0.4,
+    "fp_cost": 1.0,
+    "fn_cost": 2.0
+  }
+}
