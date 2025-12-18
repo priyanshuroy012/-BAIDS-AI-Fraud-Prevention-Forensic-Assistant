@@ -1,3 +1,5 @@
+VIDEO - https://drive.google.com/file/d/1QNd-s-I5FW83ohv2mP5_YFX-uQsxUvob/view?usp=sharing
+
 🧠 Core Capabilities
 1️⃣ Hybrid Anomaly Detection
 
