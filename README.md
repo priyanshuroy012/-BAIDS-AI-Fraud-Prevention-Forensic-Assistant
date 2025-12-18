@@ -42,6 +42,11 @@ ML Anomaly Score: Isolation Forest + AE error
 
 OSINT Boost: ASN, IP reputation, WHOIS risk
 
+<img width="193" height="245" alt="image" src="https://github.com/user-attachments/assets/86da89a6-dc66-454f-8a49-55a96aef6e92" />
+<img width="194" height="107" alt="image" src="https://github.com/user-attachments/assets/35f93e6b-66ed-4c32-bc66-8d179ac1663f" />
+
+
+
 📌 **Final Risk Score = Weighted Average + OSINT Boost**
 
 🧾**Forensic Report Generation**
