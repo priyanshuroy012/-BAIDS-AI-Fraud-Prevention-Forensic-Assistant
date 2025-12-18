@@ -1,6 +1,6 @@
 VIDEO - https://drive.google.com/file/d/1QNd-s-I5FW83ohv2mP5_YFX-uQsxUvob/view?usp=sharing
 
-🧠 Core Capabilities
+🧠 **Core Capabilities**
 1️⃣ Hybrid Anomaly Detection
 
 Isolation Forest → Detects outliers in registration metadata
@@ -34,7 +34,7 @@ ML thresholds
 
 Risk tolerance
 
-🧮 Hybrid Scoring Model
+🧮**Hybrid Scoring Model**
 
 Rule-Based Risk: 0–50 scale
 
@@ -42,9 +42,9 @@ ML Anomaly Score: Isolation Forest + AE error
 
 OSINT Boost: ASN, IP reputation, WHOIS risk
 
-📌 Final Risk Score = Weighted Average + OSINT Boost
+📌 **Final Risk Score = Weighted Average + OSINT Boost**
 
-🧾 Forensic Report Generation
+🧾**Forensic Report Generation**
 
 The system automatically generates:
 
@@ -58,7 +58,7 @@ OSINT enrichment details
 
 📄 Reports are suitable for law enforcement and compliance review.
 
-🏗️ System Pipeline
+🏗️ **System Pipeline**
 
 Registration Metadata Ingest
 
@@ -68,12 +68,12 @@ ML Anomaly Detection (IF + AE)
 
 OSINT Enrichment (IP / ASN / WHOIS)
 
-Hybrid Risk Scoring
+**Hybrid Risk Scoring**
 
 Decision + Forensic Report Output
 
-🛠️ Tech Stack
-Languages
+🛠️ **Tech Stack
+Languages**
 
 Python 3.11
 
@@ -99,7 +99,7 @@ Google Colab (Model Training)
 
 VS Code (Deployment)
 
-🌍 Use Cases
+🌍 **Use Cases**
 
 🏦 Banking & FinTech → Detect SIM swaps, fake onboarding, device spoofing
 
